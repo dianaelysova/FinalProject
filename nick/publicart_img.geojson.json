@@ -1,0 +1,4191 @@
+{
+    "features": [
+        {
+            "properties": {
+                "name": "1001",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "",
+                "id": 812728309,
+                "image": "",
+                "title": "Oakwood Road Monument"
+            },
+            "id": 812728309,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.06622537973473,
+                    40.42919153534522,
+                    812728309.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "1002",
+                "park": "",
+                "artist_name": "James Simon",
+                "art_type": "Modern and Contemporary Art",
+                "id": 188255168,
+                "image": "",
+                "title": "Rooster Waiting For The Streetcar"
+            },
+            "id": 188255168,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.03971115606002,
+                    40.44292637903607,
+                    188255168.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "129",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 2032091917,
+                "image": "",
+                "title": "Middle East Memorial Plaque"
+            },
+            "id": 2032091917,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.996852,
+                    40.438092,
+                    2032091917.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "143",
+                "park": "",
+                "artist_name": "Paul Roger-Bloche",
+                "art_type": "Historic Art",
+                "id": 1447629273,
+                "image": "",
+                "title": "L'Enfant"
+            },
+            "id": 1447629273,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.986497,
+                    40.388748,
+                    1447629273.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "148",
+                "park": "Brookline Monument",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1935017944,
+                "image": "",
+                "title": "Veterans Memorial (Brookline)"
+            },
+            "id": 1935017944,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.016981,
+                    40.391721,
+                    1935017944.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "153",
+                "park": "",
+                "artist_name": "Laura Jean McLaughlin",
+                "art_type": "Modern and Contemporary Art",
+                "id": 752311791,
+                "image": "",
+                "title": "Oakley Street Mosaic Steps"
+            },
+            "id": 752311791,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.968693,
+                    40.42358,
+                    752311791.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "156",
+                "park": "",
+                "artist_name": "Jane Haskell",
+                "art_type": "Modern and Contemporary Art",
+                "id": 915929762,
+                "image": "",
+                "title": "Windows of Light"
+            },
+            "id": 915929762,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    0.0,
+                    0.0,
+                    915929762.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "157",
+                "park": "",
+                "artist_name": "Edith Abeyta & Sandy Kessler Kaminski",
+                "art_type": "Modern and Contemporary Art",
+                "id": 275033545,
+                "image": "",
+                "title": "Time Travelers"
+            },
+            "id": 275033545,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.944514,
+                    40.406833,
+                    275033545.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "159",
+                "park": "Highland Park",
+                "artist_name": "Ben Grubb",
+                "art_type": "Modern and Contemporary Art",
+                "id": 687548560,
+                "image": "",
+                "title": "Untitled (Ben Grubb)"
+            },
+            "id": 687548560,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.911319,
+                    40.481455,
+                    687548560.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "161",
+                "park": "Frick Park",
+                "artist_name": "Randi Stewart",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1980433881,
+                "image": "",
+                "title": "Caves"
+            },
+            "id": 1980433881,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.914858,
+                    40.429959,
+                    1980433881.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "163",
+                "park": "Riverview Park",
+                "artist_name": "Ramiro Davaro-Comas",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1139976437,
+                "image": "",
+                "title": "Manimal Friends"
+            },
+            "id": 1139976437,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.01752,
+                    40.480761,
+                    1139976437.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "164",
+                "park": "Riverview Park",
+                "artist_name": "Sandy Kessler Kaminski & Linda Wallen",
+                "art_type": "Modern and Contemporary Art",
+                "id": 326997419,
+                "image": "",
+                "title": "Stars, Sun, and Planets with Spaceships!"
+            },
+            "id": 326997419,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.017856,
+                    40.481303,
+                    326997419.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "166",
+                "park": "McKinley Park",
+                "artist_name": "Janel Young",
+                "art_type": "Modern and Contemporary Art",
+                "id": 847794014,
+                "image": "",
+                "title": "Home Court Advantage"
+            },
+            "id": 847794014,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.003484,
+                    40.41397,
+                    847794014.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "167",
+                "park": "",
+                "artist_name": "Linda Wallen",
+                "art_type": "Modern and Contemporary Art",
+                "id": 797630304,
+                "image": "",
+                "title": "Spring Hill Mosaic"
+            },
+            "id": 797630304,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.991446,
+                    40.465522,
+                    797630304.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "172",
+                "park": "Schenley Park",
+                "artist_name": "Not Applicable",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1128072672,
+                "image": "",
+                "title": "Grand Army of the Republic Memorial"
+            },
+            "id": 1128072672,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.945069,
+                    40.440568,
+                    1128072672.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "173",
+                "park": "Schenley Park",
+                "artist_name": "Not Applicable",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1288339436,
+                "image": "",
+                "title": "National Woman's Relief Corps Memorial: Annie Wittenmyer"
+            },
+            "id": 1288339436,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.945583,
+                    40.440714,
+                    1288339436.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "174",
+                "park": "Schenley Park",
+                "artist_name": "Not Applicable",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1089115252,
+                "image": "",
+                "title": "National Woman's Relief Corps Memorial: Flo Jamison Miller"
+            },
+            "id": 1089115252,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.946056,
+                    40.440855,
+                    1089115252.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "175",
+                "park": "",
+                "artist_name": "Ed Wirkowski, Michael Kapeluck, & Robert Robinson",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1873659637,
+                "image": "",
+                "title": "Police Department Zone 6 Mural"
+            },
+            "id": 1873659637,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.032174,
+                    40.442081,
+                    1873659637.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "176",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "Individual and Historic Monuments",
+                "id": 582772387,
+                "image": "",
+                "title": "Pittsburgh Marathon and Great Race Monument"
+            },
+            "id": 582772387,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.93622,
+                    40.424313,
+                    582772387.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "177",
+                "park": "Frick Park",
+                "artist_name": "Not Applicable",
+                "art_type": "Individual and Historic Monuments",
+                "id": 822780311,
+                "image": "",
+                "title": "Forbes Road Monument"
+            },
+            "id": 822780311,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.913295,
+                    40.454184,
+                    822780311.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "178",
+                "park": "Highland Park",
+                "artist_name": "n/a",
+                "art_type": "Historic Art",
+                "id": 1210448368,
+                "image": "",
+                "title": "Eagles"
+            },
+            "id": 1210448368,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.907891,
+                    40.484446,
+                    1210448368.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "180",
+                "park": "",
+                "artist_name": "Giuseppe Moretti",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1198285716,
+                "image": "",
+                "title": "Stephen Foster"
+            },
+            "id": 1198285716,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    0.0,
+                    0.0,
+                    1198285716.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "181",
+                "park": "",
+                "artist_name": "Linda Wallen",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1536449874,
+                "image": "",
+                "title": "Deutschtown City Steps Mosaic Mural"
+            },
+            "id": 1536449874,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.995558,
+                    40.458197,
+                    1536449874.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "182",
+                "park": "",
+                "artist_name": "Oreen Cohen & Alison Zapata",
+                "art_type": "",
+                "id": 1835854787,
+                "image": "",
+                "title": "Cascade"
+            },
+            "id": 1835854787,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.92700810118136,
+                    40.44341809658243,
+                    1835854787.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "183",
+                "park": "",
+                "artist_name": "Oreen Cohen & Alison Zapata",
+                "art_type": "",
+                "id": 972265707,
+                "image": "",
+                "title": "Transform, Pollinate, & Illuminate"
+            },
+            "id": 972265707,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.92709666141323,
+                    40.443306787094585,
+                    972265707.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "184",
+                "park": "",
+                "artist_name": "Will Schlough",
+                "art_type": "",
+                "id": 333276345,
+                "image": "",
+                "title": "Broadway Avenue Public Realm Street Mural: Racing Snails"
+            },
+            "id": 333276345,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.03029612933726,
+                    40.403761403659985,
+                    333276345.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "185",
+                "park": "",
+                "artist_name": "Tim Engelhardt & Randi Stewart",
+                "art_type": "",
+                "id": 1513752936,
+                "image": "",
+                "title": "Broadway Avenue Public Realm Street Mural: City Steps"
+            },
+            "id": 1513752936,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.03035620316656,
+                    40.40403182307007,
+                    1513752936.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "186",
+                "park": "",
+                "artist_name": "Leonardo Moleiro",
+                "art_type": "",
+                "id": 93190925,
+                "image": "",
+                "title": "Broadway Avenue Public Realm Street Mural: Totem"
+            },
+            "id": 93190925,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.0246270047086,
+                    40.41050822373764,
+                    93190925.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "187",
+                "park": "",
+                "artist_name": "Carlos Peterson & Howard Graves",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1248178985,
+                "image": "",
+                "title": "Freedom Corner Memorial"
+            },
+            "id": 1248178985,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9857914613105,
+                    40.44098686603677,
+                    1248178985.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "188",
+                "park": "",
+                "artist_name": "Alisha Wormsley",
+                "art_type": "Modern and Contemporary Art",
+                "id": 830743172,
+                "image": "",
+                "title": "We Came From The Stars"
+            },
+            "id": 830743172,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9857147501982,
+                    40.44675060529284,
+                    830743172.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "22",
+                "park": "",
+                "artist_name": "Will Schlough",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1338516250,
+                "image": "",
+                "title": "Paulson Spray Park Mural"
+            },
+            "id": 1338516250,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.90093221559869,
+                    40.46875206659877,
+                    1338516250.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "23",
+                "park": "",
+                "artist_name": "Leonardo Moleiro",
+                "art_type": "Modern and Contemporary Art",
+                "id": 2070732404,
+                "image": "",
+                "title": "Shadyside Art Intersection"
+            },
+            "id": 2070732404,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9307819932223,
+                    40.45610721828456,
+                    2070732404.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "24",
+                "park": "",
+                "artist_name": "Joshua Chang & Aaron Ramon",
+                "art_type": "Modern and Contemporary Art",
+                "id": 502869219,
+                "image": "",
+                "title": "We Are Pittsburgh"
+            },
+            "id": 502869219,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00472900359057,
+                    40.44333016311532,
+                    502869219.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "81",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1417375405,
+                "image": "",
+                "title": "Hays Monument"
+            },
+            "id": 1417375405,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.932796,
+                    40.385777,
+                    1417375405.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00001000",
+                "park": "Schenley Park",
+                "artist_name": "Unknown",
+                "art_type": "Historic Art",
+                "id": 355302219,
+                "image": "",
+                "title": "Neptune"
+            },
+            "id": 355302219,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94730707383786,
+                    40.43820987520803,
+                    355302219.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00003000",
+                "park": "Allegheny Commons",
+                "artist_name": "Unknown",
+                "art_type": "Historic Art",
+                "id": 1953949752,
+                "image": "",
+                "title": "Deer"
+            },
+            "id": 1953949752,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.01400326256805,
+                    40.45320926484186,
+                    1953949752.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00008000",
+                "park": "Schenley Park",
+                "artist_name": "Giuseppe Moretti",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1797001777,
+                "image": "",
+                "title": "Edward Manning Bigelow"
+            },
+            "id": 1797001777,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94730707397792,
+                    40.44010959480835,
+                    1797001777.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00009000",
+                "park": "Highland Park",
+                "artist_name": "Giuseppe Moretti",
+                "art_type": "Historic Art",
+                "id": 1056158439,
+                "image": "",
+                "title": "Welcome"
+            },
+            "id": 1056158439,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.91620202568714,
+                    40.47860752828694,
+                    1056158439.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00010000",
+                "park": "Schenley Park",
+                "artist_name": "Giuseppe Moretti",
+                "art_type": "Historic Art",
+                "id": 680343518,
+                "image": "",
+                "title": "Panthers"
+            },
+            "id": 680343518,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9470018979327,
+                    40.43780933193182,
+                    680343518.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00011000",
+                "park": "Highland Park",
+                "artist_name": "Unknown",
+                "art_type": "Historic Art",
+                "id": 2033866494,
+                "image": "",
+                "title": "Griffins"
+            },
+            "id": 2033866494,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.92000146564243,
+                    40.482708328465094,
+                    2033866494.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00012000",
+                "park": "Highland Park",
+                "artist_name": "Giuseppe Moretti",
+                "art_type": "Historic Art",
+                "id": 1965199143,
+                "image": "",
+                "title": "Horses"
+            },
+            "id": 1965199143,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9108995945885,
+                    40.47510945045616,
+                    1965199143.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00017000",
+                "park": "Schenley Park",
+                "artist_name": "Augustus Saint-Gaudens",
+                "art_type": "Individual and Historic Monuments",
+                "id": 151837449,
+                "image": "",
+                "title": "Christopher Lyman Magee Memorial"
+            },
+            "id": 151837449,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.95110651379952,
+                    40.442409857534415,
+                    151837449.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00018000",
+                "park": "",
+                "artist_name": "Unknown",
+                "art_type": "Individual and Historic Monuments",
+                "id": 677813060,
+                "image": "",
+                "title": "Hartzell Memorial Fountain"
+            },
+            "id": 677813060,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00620601899715,
+                    40.4539073549106,
+                    677813060.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00021000",
+                "park": "Schenley Park",
+                "artist_name": "John Massey Rhind",
+                "art_type": "Individual and Historic Monuments",
+                "id": 772547760,
+                "image": "",
+                "title": "Robert Burns"
+            },
+            "id": 772547760,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9472250727058,
+                    40.43819057769309,
+                    772547760.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00022000",
+                "park": "Southside Market House",
+                "artist_name": "Unknown",
+                "art_type": "Historic Art",
+                "id": 190368932,
+                "image": "",
+                "title": "South Side Market Signature Stone"
+            },
+            "id": 190368932,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.98650691439434,
+                    40.42910800410999,
+                    190368932.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00024000",
+                "park": "",
+                "artist_name": "Charles Keck",
+                "art_type": "Historic Art",
+                "id": 184145405,
+                "image": "",
+                "title": "Allegorical Friezes"
+            },
+            "id": 184145405,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99674352320909,
+                    40.437899650492625,
+                    184145405.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00025000",
+                "park": "Schenley Park",
+                "artist_name": "Victor David Brenner",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1359999380,
+                "image": "",
+                "title": "A Song to Nature"
+            },
+            "id": 1359999380,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.95170160673473,
+                    40.44210849636744,
+                    1359999380.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00035000",
+                "park": "",
+                "artist_name": "Reid Dick",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1879904433,
+                "image": "",
+                "title": "William Pitt"
+            },
+            "id": 1879904433,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99720447593893,
+                    40.43794835053586,
+                    1879904433.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00037000",
+                "park": "",
+                "artist_name": "Gleb W Derujinsky",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1745758195,
+                "image": "",
+                "title": "William Flinn Memorial"
+            },
+            "id": 1745758195,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9970458807075,
+                    40.43841252156568,
+                    1745758195.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00040000",
+                "park": "Mellon Park",
+                "artist_name": "Edmund Amateis",
+                "art_type": "Historic Art",
+                "id": 1336707259,
+                "image": "",
+                "title": "Mellon Park Fountain"
+            },
+            "id": 1336707259,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9190020123853,
+                    40.452007639065016,
+                    1336707259.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00042000",
+                "park": "Schenley Park",
+                "artist_name": "Daniel Chester French",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1605962003,
+                "image": "",
+                "title": "Westinghouse Memorial"
+            },
+            "id": 1605962003,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9427065476005,
+                    40.43940769057548,
+                    1605962003.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00045000",
+                "park": "Highland Park",
+                "artist_name": "Frank Vittor",
+                "art_type": "Historic Art",
+                "id": 166969213,
+                "image": "",
+                "title": "Drinking Fountain"
+            },
+            "id": 166969213,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.91619409821395,
+                    40.47871283108725,
+                    166969213.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00046000",
+                "park": "Mellon Park",
+                "artist_name": "Frank Vittor",
+                "art_type": "Historic Art",
+                "id": 164859586,
+                "image": "",
+                "title": "Drinking Fountain"
+            },
+            "id": 164859586,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.91840691939086,
+                    40.45150791365353,
+                    164859586.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00047000",
+                "park": "Schenley Park",
+                "artist_name": "Frank Vittor",
+                "art_type": "Historic Art",
+                "id": 2029617217,
+                "image": "",
+                "title": "Drinking Fountain"
+            },
+            "id": 2029617217,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94640680501936,
+                    40.43840823954224,
+                    2029617217.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00049000",
+                "park": "",
+                "artist_name": "Sidney Waugh",
+                "art_type": "Historic Art",
+                "id": 1175269324,
+                "image": "",
+                "title": "The Heavens"
+            },
+            "id": 1175269324,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00640438322017,
+                    40.452606542886656,
+                    1175269324.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00050000",
+                "park": "",
+                "artist_name": "Sidney Waugh",
+                "art_type": "Historic Art",
+                "id": 1971852534,
+                "image": "",
+                "title": "The Earth"
+            },
+            "id": 1971852534,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00610683674142,
+                    40.452606542899446,
+                    1971852534.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00051000",
+                "park": "",
+                "artist_name": "Sidney Waugh",
+                "art_type": "Historic Art",
+                "id": 1492179153,
+                "image": "",
+                "title": "Night"
+            },
+            "id": 1492179153,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00660274756166,
+                    40.45290790401947,
+                    1492179153.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00052000",
+                "park": "",
+                "artist_name": "Sidney Waugh",
+                "art_type": "Historic Art",
+                "id": 1663151283,
+                "image": "",
+                "title": "Day"
+            },
+            "id": 1663151283,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.0061068367711,
+                    40.45300708618862,
+                    1663151283.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00053000",
+                "park": "Buhl Community Park at Allegheny Square",
+                "artist_name": "Sidney Waugh",
+                "art_type": "Historic Art",
+                "id": 816584695,
+                "image": "",
+                "title": "Primitive Science"
+            },
+            "id": 816584695,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00628860584476,
+                    40.45249752812816,
+                    816584695.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00054000",
+                "park": "",
+                "artist_name": "Sidney Waugh",
+                "art_type": "Historic Art",
+                "id": 475599800,
+                "image": "",
+                "title": "Modern Science"
+            },
+            "id": 475599800,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00620601890097,
+                    40.45260654289518,
+                    475599800.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00060000",
+                "park": "Schenley Park",
+                "artist_name": "Frank Vittor",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1395398096,
+                "image": "",
+                "title": "Christopher Columbus"
+            },
+            "id": 1395398096,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94840570713757,
+                    40.44020877690889,
+                    1395398096.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00061000",
+                "park": "Buhl Community Park at Allegheny Square",
+                "artist_name": "Sylvester Damianos",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1481431937,
+                "image": "",
+                "title": "Cubed Tension"
+            },
+            "id": 1481431937,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00570247869882,
+                    40.452507360769175,
+                    1481431937.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00062000",
+                "park": "Liberty Avenue Island",
+                "artist_name": "Josefa Filkosky",
+                "art_type": "Modern and Contemporary Art",
+                "id": 69773885,
+                "image": "",
+                "title": "Pipe Dream IV"
+            },
+            "id": 69773885,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00530574923334,
+                    40.44130740748068,
+                    69773885.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00064000",
+                "park": "Mellon Park",
+                "artist_name": "Peter Calaboyias",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1812675001,
+                "image": "",
+                "title": "Five Factors"
+            },
+            "id": 1812675001,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.91498024742239,
+                    40.454534447901125,
+                    1812675001.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00067000",
+                "park": "Schenley Park",
+                "artist_name": "Edward Bordas",
+                "art_type": "Modern and Contemporary Art",
+                "id": 514022519,
+                "image": "",
+                "title": "Untitled"
+            },
+            "id": 514022519,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94697930151295,
+                    40.43480397027588,
+                    514022519.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00068000",
+                "park": "Mellon Park",
+                "artist_name": "Thomas Morandi",
+                "art_type": "Modern and Contemporary Art",
+                "id": 767455688,
+                "image": "",
+                "title": "Untitled (January Sprinter)"
+            },
+            "id": 767455688,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.91390557543798,
+                    40.4544070843217,
+                    767455688.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00069000",
+                "park": "",
+                "artist_name": "Jamce Myford",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1175808,
+                "image": "",
+                "title": "Elongated Disc"
+            },
+            "id": 1175808,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00610683680793,
+                    40.453506811625516,
+                    1175808.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00070000",
+                "park": "Mellon Park",
+                "artist_name": "Aaronel deRoy Gruber",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1520084638,
+                "image": "",
+                "title": "Steelcityscape"
+            },
+            "id": 1520084638,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.91390557546748,
+                    40.454807627610705,
+                    1520084638.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00071000",
+                "park": "Allegheny Commons",
+                "artist_name": "Peter Calaboyias",
+                "art_type": "Modern and Contemporary Art",
+                "id": 50811008,
+                "image": "",
+                "title": "Five Factors II"
+            },
+            "id": 50811008,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.01320217573192,
+                    40.45100818413482,
+                    50811008.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00073000",
+                "park": "Frank Curto Park",
+                "artist_name": "John Henry",
+                "art_type": "Modern and Contemporary Art",
+                "id": 27180654,
+                "image": "",
+                "title": "Pittsburgh"
+            },
+            "id": 27180654,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9758028722307,
+                    40.45180927232508,
+                    27180654.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00075000",
+                "park": "",
+                "artist_name": "Thaddeus Mosley",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1947343516,
+                "image": "",
+                "title": "Phoenix"
+            },
+            "id": 1947343516,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.98059808679925,
+                    40.443259199228535,
+                    1947343516.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00076000",
+                "park": "",
+                "artist_name": "Louise Pershing",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1139151245,
+                "image": "",
+                "title": "The Flow"
+            },
+            "id": 1139151245,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9948908693782,
+                    40.44070977829631,
+                    1139151245.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00077000",
+                "park": "",
+                "artist_name": "Jerry Caplan",
+                "art_type": "Modern and Contemporary Art",
+                "id": 710525190,
+                "image": "",
+                "title": "Untitled"
+            },
+            "id": 710525190,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99520442897568,
+                    40.4579089735787,
+                    710525190.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00078000",
+                "park": "West End Park",
+                "artist_name": "Rolf Rohn",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1635089444,
+                "image": "",
+                "title": "Untitled"
+            },
+            "id": 1635089444,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.03830289045231,
+                    40.43680606242697,
+                    1635089444.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00082000",
+                "park": "Paulson Park",
+                "artist_name": "Josefa Filkosky",
+                "art_type": "Modern and Contemporary Art",
+                "id": 126698438,
+                "image": "",
+                "title": "Pipe Movement in Blue I"
+            },
+            "id": 126698438,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.90090508417944,
+                    40.46860920550694,
+                    126698438.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00084000",
+                "park": "",
+                "artist_name": "Cory Bonnet",
+                "art_type": "Modern and Contemporary Art",
+                "id": 957789229,
+                "image": "",
+                "title": "Fire Station 27 Mural"
+            },
+            "id": 957789229,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00720546818832,
+                    40.429508546507975,
+                    957789229.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00085000",
+                "park": "Magee Park",
+                "artist_name": "H. Douglas Pickering",
+                "art_type": "Modern and Contemporary Art",
+                "id": 2132016421,
+                "image": "",
+                "title": "Untitled"
+            },
+            "id": 2132016421,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.93699975759887,
+                    40.424106937171075,
+                    2132016421.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00089000",
+                "park": "Highland Park",
+                "artist_name": "Eliza Miller",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1022462837,
+                "image": "",
+                "title": "Untitled"
+            },
+            "id": 1022462837,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9117006817861,
+                    40.48220860338529,
+                    1022462837.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00090000",
+                "park": "Brighton Heights Park",
+                "artist_name": "Anthony R. Vitale",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1432017341,
+                "image": "",
+                "title": "Aquarius"
+            },
+            "id": 1432017341,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.0310015613424,
+                    40.48700748831584,
+                    1432017341.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00091000",
+                "park": "",
+                "artist_name": "James Myford",
+                "art_type": "Modern and Contemporary Art",
+                "id": 69170292,
+                "image": "",
+                "title": "Stonehenge"
+            },
+            "id": 69170292,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.01340054142628,
+                    40.46960865153562,
+                    69170292.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00092000",
+                "park": "Allegheny Landing Park",
+                "artist_name": "Ned Smyth",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1618540883,
+                "image": "",
+                "title": "Piazza Lavoro"
+            },
+            "id": 1618540883,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00280771323276,
+                    40.4473378154976,
+                    1618540883.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00093000",
+                "park": "Allegheny Landing Park",
+                "artist_name": "Ned Smyth",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1742589539,
+                "image": "",
+                "title": "Mythic Source"
+            },
+            "id": 1742589539,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00268065597689,
+                    40.446967599058226,
+                    1742589539.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00094000",
+                "park": "Allegheny Landing Park",
+                "artist_name": "George Danhires",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1106097306,
+                "image": "",
+                "title": "The Builders"
+            },
+            "id": 1106097306,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00362652238532,
+                    40.44717710717609,
+                    1106097306.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00095000",
+                "park": "Allegheny Landing Park",
+                "artist_name": "George Sugarman",
+                "art_type": "Modern and Contemporary Art",
+                "id": 360491421,
+                "image": "",
+                "title": "Pittsburgh Variations"
+            },
+            "id": 360491421,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00219455016288,
+                    40.44729447457207,
+                    360491421.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00097000",
+                "park": "Liberty Avenue Island",
+                "artist_name": "David Breeden",
+                "art_type": "Modern and Contemporary Art",
+                "id": 144499517,
+                "image": "",
+                "title": "Man's Ascent to Woman"
+            },
+            "id": 144499517,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00470302688632,
+                    40.441406589654434,
+                    144499517.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00099000",
+                "park": "",
+                "artist_name": "Thaddeus Mosley",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1602589575,
+                "image": "",
+                "title": "Mountaintop"
+            },
+            "id": 1602589575,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.96420618897747,
+                    40.452106819267726,
+                    1602589575.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00100000",
+                "park": "",
+                "artist_name": "Robert Berks",
+                "art_type": "Individual and Historic Monuments",
+                "id": 489150556,
+                "image": "",
+                "title": "Richard S. Caliguiri"
+            },
+            "id": 489150556,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9968509042805,
+                    40.438335491125144,
+                    489150556.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00103000",
+                "park": "",
+                "artist_name": "Michael Walsh & Jeremy W. Groznik",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1196697699,
+                "image": "",
+                "title": "The Gateway"
+            },
+            "id": 1196697699,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94100519396648,
+                    40.4648097645815,
+                    1196697699.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00105000",
+                "park": "",
+                "artist_name": "James O'Toole",
+                "art_type": "Modern and Contemporary Art",
+                "id": 708530485,
+                "image": "",
+                "title": "Molten Memories: Steelworkers Monument"
+            },
+            "id": 708530485,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.96190210928063,
+                    40.427208285568554,
+                    708530485.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00107001",
+                "park": "",
+                "artist_name": "JoAnna Commandaros",
+                "art_type": "Modern and Contemporary Art",
+                "id": 2082076711,
+                "image": "",
+                "title": "Lawrenceville Life Links"
+            },
+            "id": 2082076711,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.96109330846463,
+                    40.469847976346045,
+                    2082076711.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00107002",
+                "park": "",
+                "artist_name": "JoAnna Commandaros",
+                "art_type": "Modern and Contemporary Art",
+                "id": 431608558,
+                "image": "",
+                "title": "Lawrenceville Life Links"
+            },
+            "id": 431608558,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.95491330725474,
+                    40.47935797842325,
+                    431608558.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00107003",
+                "park": "",
+                "artist_name": "JoAnna Commandaros",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1003762825,
+                "image": "",
+                "title": "Lawrenceville Life Links"
+            },
+            "id": 1003762825,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94568330484088,
+                    40.48534797996143,
+                    1003762825.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00109000",
+                "park": "",
+                "artist_name": "Bob  Qualters",
+                "art_type": "Modern and Contemporary Art",
+                "id": 808687556,
+                "image": "",
+                "title": "Untitled"
+            },
+            "id": 808687556,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94392329873727,
+                    40.409937965665165,
+                    808687556.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00111000",
+                "park": "",
+                "artist_name": "Bob  Qualters",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1329611030,
+                "image": "",
+                "title": "Untitled"
+            },
+            "id": 1329611030,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94190545890251,
+                    40.411907532777946,
+                    1329611030.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00113000",
+                "park": "Emerald View Park - Grandview Overlook",
+                "artist_name": "James A. West",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1757845594,
+                "image": "",
+                "title": "Point of View"
+            },
+            "id": 1757845594,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.02130459435818,
+                    40.439209322895124,
+                    1757845594.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00116000",
+                "park": "",
+                "artist_name": "Jerry Caplan",
+                "art_type": "Non-City Owned",
+                "id": 17750008,
+                "image": "",
+                "title": "Pittsburgh People"
+            },
+            "id": 17750008,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.0026049425054,
+                    40.4382098728272,
+                    17750008.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00118000",
+                "park": "",
+                "artist_name": "Frederick Franck",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1006480973,
+                "image": "",
+                "title": "Unkillable Human"
+            },
+            "id": 1006480973,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99310634435045,
+                    40.451408728290176,
+                    1006480973.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00119000",
+                "park": "",
+                "artist_name": "Ann Hamilton & Michael Mercil",
+                "art_type": "Modern and Contemporary Art",
+                "id": 627313735,
+                "image": "",
+                "title": "Allegheny Riverfront Park"
+            },
+            "id": 627313735,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00150630984024,
+                    40.44480930040157,
+                    627313735.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00120000",
+                "park": "Highland Park",
+                "artist_name": "Laura Jean McLaughlin",
+                "art_type": "Modern and Contemporary Art",
+                "id": 564433291,
+                "image": "",
+                "title": "Animal Adventure"
+            },
+            "id": 564433291,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9189028323865,
+                    40.48130833434931,
+                    564433291.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00126000",
+                "park": "Mellon Park",
+                "artist_name": "Janet Zweig",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1583063106,
+                "image": "",
+                "title": "7:11 AM 11.20.1979 79.55'W 40.27'N"
+            },
+            "id": 1583063106,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.91887296468514,
+                    40.45201183488666,
+                    1583063106.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00127000",
+                "park": "",
+                "artist_name": "Kim Beck",
+                "art_type": "Modern and Contemporary Art",
+                "id": 20578961,
+                "image": "",
+                "title": "Windows"
+            },
+            "id": 20578961,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99236722587437,
+                    40.421691645951604,
+                    20578961.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00128000",
+                "park": "Emerald View Park - Grandview Park",
+                "artist_name": "James Myford",
+                "art_type": "Modern and Contemporary Art",
+                "id": 226477933,
+                "image": "",
+                "title": "Untitled"
+            },
+            "id": 226477933,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99723345720088,
+                    40.42623740941167,
+                    226477933.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00129000",
+                "park": "",
+                "artist_name": "Carin Mincemoyer",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1294112607,
+                "image": "",
+                "title": "Diamond Diamonds"
+            },
+            "id": 1294112607,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.0023452626732,
+                    40.44114414279869,
+                    1294112607.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00132000",
+                "park": "",
+                "artist_name": "Sheila Klein",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1786320600,
+                "image": "",
+                "title": "Shady Liberty (East Liberty Pedestrian Bridge)"
+            },
+            "id": 1786320600,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.92740968300438,
+                    40.4585439605425,
+                    1786320600.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00187000",
+                "park": "Ormsby Park",
+                "artist_name": "Edward Eberle",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1084659641,
+                "image": "",
+                "title": "Untitled"
+            },
+            "id": 1084659641,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.97409330948943,
+                    40.42922796804618,
+                    1084659641.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00189000",
+                "park": "Allegheny Landing Park",
+                "artist_name": "Isaac Witkin",
+                "art_type": "Modern and Contemporary Art",
+                "id": 251831102,
+                "image": "",
+                "title": "The Forks"
+            },
+            "id": 251831102,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00320003612717,
+                    40.447208745365685,
+                    251831102.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00190000",
+                "park": "",
+                "artist_name": "Frank Vittor",
+                "art_type": "Individual and Historic Monuments",
+                "id": 287424629,
+                "image": "",
+                "title": "William Addison Magee Memorial"
+            },
+            "id": 287424629,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99692176497666,
+                    40.437824056750515,
+                    287424629.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00192000",
+                "park": "",
+                "artist_name": "Virgil Cantini",
+                "art_type": "Modern and Contemporary Art",
+                "id": 220899007,
+                "image": "",
+                "title": "Joy of Life"
+            },
+            "id": 220899007,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.92627577579441,
+                    40.46072521031442,
+                    220899007.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00194000",
+                "park": "",
+                "artist_name": "John Buxton",
+                "art_type": "Individual and Historic Monuments",
+                "id": 389683208,
+                "image": "",
+                "title": "Abraham Lincoln Portrait"
+            },
+            "id": 389683208,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99688864935638,
+                    40.437998882797444,
+                    389683208.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00195000",
+                "park": "",
+                "artist_name": "Victor David Brenner",
+                "art_type": "Individual and Historic Monuments",
+                "id": 914965299,
+                "image": "",
+                "title": "Presidential Portrait: Abraham Lincoln"
+            },
+            "id": 914965299,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99694549815723,
+                    40.43820732831716,
+                    914965299.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00196000",
+                "park": "",
+                "artist_name": "Victor David Brenner",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1827846992,
+                "image": "",
+                "title": "Presidential Portrait: George Washington"
+            },
+            "id": 1827846992,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99707814531467,
+                    40.438087314222855,
+                    1827846992.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00198000",
+                "park": "",
+                "artist_name": "Paul Manship",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1728686833,
+                "image": "",
+                "title": "Presidential Portrait: Woodrow Wilson"
+            },
+            "id": 1728686833,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99663598809155,
+                    40.438055731587156,
+                    1728686833.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00199000",
+                "park": "",
+                "artist_name": "Berthold Nebel",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1472146363,
+                "image": "",
+                "title": "Presidential Portrait: Theodore Roosevelt"
+            },
+            "id": 1472146363,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99721275525047,
+                    40.43823258007819,
+                    1472146363.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00200000",
+                "park": "",
+                "artist_name": "Unknown",
+                "art_type": "Individual and Historic Monuments",
+                "id": 775210147,
+                "image": "",
+                "title": "Presidential Portrait: Franklin Delano Roosevelt"
+            },
+            "id": 775210147,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99667811331176,
+                    40.43825633546055,
+                    775210147.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00201000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "Individual and Historic Monuments",
+                "id": 277423531,
+                "image": "",
+                "title": "Gettysburg Address Plaque"
+            },
+            "id": 277423531,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99706037810421,
+                    40.437871339171295,
+                    277423531.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00202000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1425046573,
+                "image": "",
+                "title": "City-County Building Plaque"
+            },
+            "id": 1425046573,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99735415093693,
+                    40.43802458808159,
+                    1425046573.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00203000",
+                "park": "",
+                "artist_name": "Unknown",
+                "art_type": "Historic Art",
+                "id": 1488683786,
+                "image": "",
+                "title": "Elevator Doors"
+            },
+            "id": 1488683786,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9967812683268,
+                    40.438131529952614,
+                    1488683786.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00204000",
+                "park": "Southside Riverfront Park",
+                "artist_name": "Industrial Arts Co-Op",
+                "art_type": "Modern and Contemporary Art",
+                "id": 1347336338,
+                "image": "",
+                "title": "The Workers"
+            },
+            "id": 1347336338,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.97610074611987,
+                    40.43221226147136,
+                    1347336338.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00205000",
+                "park": "Schenley Park",
+                "artist_name": "Frank Vittor",
+                "art_type": "Historic Art",
+                "id": 2029072572,
+                "image": "",
+                "title": "Drinking Fountain"
+            },
+            "id": 2029072572,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94851330242403,
+                    40.44072797133913,
+                    2029072572.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00206000",
+                "park": "Allegheny Commons",
+                "artist_name": "Frank Vittor",
+                "art_type": "Historic Art",
+                "id": 1116030770,
+                "image": "",
+                "title": "Drinking Fountain"
+            },
+            "id": 1116030770,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00190331981713,
+                    40.452617971305585,
+                    1116030770.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "PA00207000",
+                "park": "Crosstown",
+                "artist_name": "Virgil Cantini",
+                "art_type": "Modern and Contemporary Art",
+                "id": 603636456,
+                "image": "",
+                "title": "Untitled"
+            },
+            "id": 603636456,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99385533066715,
+                    40.44105896986707,
+                    603636456.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00001000",
+                "park": "Buhl Community Park at Allegheny Square",
+                "artist_name": "Daniel Chester French",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1678423235,
+                "image": "",
+                "title": "Colonel James Anderson Monument"
+            },
+            "id": 1678423235,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00592,
+                    40.453030000000126,
+                    1678423235.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00002000",
+                "park": "Allegheny Commons",
+                "artist_name": "Edward Ludwig Albert Pausch",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1527419187,
+                "image": "",
+                "title": "George Washington Memorial"
+            },
+            "id": 1527419187,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00957453610434,
+                    40.454559021903535,
+                    1527419187.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00003000",
+                "park": "Allegheny Commons",
+                "artist_name": "Unknown",
+                "art_type": "War Memorials",
+                "id": 1790632922,
+                "image": "",
+                "title": "Hampton Battery Memorial"
+            },
+            "id": 1790632922,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00096,
+                    40.45089000000013,
+                    1790632922.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00004000",
+                "park": "Allegheny Commons",
+                "artist_name": "Charles Keck",
+                "art_type": "War Memorials",
+                "id": 61964334,
+                "image": "",
+                "title": "Maine Memorial"
+            },
+            "id": 61964334,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.01094,
+                    40.45315000000011,
+                    61964334.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00005000",
+                "park": "Allegheny Commons",
+                "artist_name": "Peter C. Reniers",
+                "art_type": "War Memorials",
+                "id": 158501549,
+                "image": "",
+                "title": "Civil War Soldiers Monument (Allegheny County)"
+            },
+            "id": 158501549,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.0125,
+                    40.45305000000019,
+                    158501549.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00006000",
+                "park": "Allegheny Commons",
+                "artist_name": "Unknown",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1808888159,
+                "image": "",
+                "title": "Thomas Armstrong"
+            },
+            "id": 1808888159,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00971947486731,
+                    40.45212429736117,
+                    1808888159.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00007000",
+                "park": "Allegheny Commons",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 309028013,
+                "image": "",
+                "title": "World War I & II Honor Roll (23rd Ward)"
+            },
+            "id": 309028013,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00276,
+                    40.45066000000014,
+                    309028013.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00008000",
+                "park": "Beechview Monument",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1850330364,
+                "image": "",
+                "title": "Beechview Community War Memorial"
+            },
+            "id": 1850330364,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.03018920360734,
+                    40.40385896286335,
+                    1850330364.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00009000",
+                "park": "Beechview Healthy Active Living Center Park",
+                "artist_name": "n/a",
+                "art_type": "Individual and Historic Monuments",
+                "id": 396416564,
+                "image": "",
+                "title": "Beechview Centennial Monument"
+            },
+            "id": 396416564,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.03018713211912,
+                    40.40369817159666,
+                    396416564.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00010000",
+                "park": "Beechview Monument",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1437946228,
+                "image": "",
+                "title": "World War I Honor Roll (Beechview)"
+            },
+            "id": 1437946228,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.03011872423673,
+                    40.40379318211757,
+                    1437946228.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00011000",
+                "park": "Beechview Monument",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 946081306,
+                "image": "",
+                "title": "World War II Honor Roll (Beechview)"
+            },
+            "id": 946081306,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.0301281214862,
+                    40.40385426423859,
+                    946081306.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00012000",
+                "park": "Warrington Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1463479797,
+                "image": "",
+                "title": "World War I Honor Roll (18th Ward)"
+            },
+            "id": 1463479797,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00070556763603,
+                    40.42125359472715,
+                    1463479797.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00013000",
+                "park": "Warrington Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 597428944,
+                "image": "",
+                "title": "World War II Honor Roll (18th Ward)"
+            },
+            "id": 597428944,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00072347542876,
+                    40.42115111608715,
+                    597428944.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00014000",
+                "park": "Morrow Triangle Park",
+                "artist_name": "Frank Vittor",
+                "art_type": "War Memorials",
+                "id": 919208168,
+                "image": "",
+                "title": "World War II Memorial (Eighth Ward)"
+            },
+            "id": 919208168,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.93907,
+                    40.4566,
+                    919208168.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00015000",
+                "park": "Legion Memorial Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1895229416,
+                "image": "",
+                "title": "Armed Forces Monument (27th Ward)"
+            },
+            "id": 1895229416,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.03479099140019,
+                    40.481692006289244,
+                    1895229416.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00016000",
+                "park": "Legion Memorial Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1470950266,
+                "image": "",
+                "title": "American Legion Marker with Flagpole"
+            },
+            "id": 1470950266,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.03506,
+                    40.482220000000154,
+                    1470950266.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00017000",
+                "park": "Legion Memorial Park",
+                "artist_name": "Allen George Newman",
+                "art_type": "War Memorials",
+                "id": 515196271,
+                "image": "",
+                "title": "Sacrifice (World War I Honor Roll)"
+            },
+            "id": 515196271,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.03477,
+                    40.48191,
+                    515196271.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00018000",
+                "park": "Legion Memorial Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 2109761005,
+                "image": "",
+                "title": "World War II Honor Roll (27th Ward)"
+            },
+            "id": 2109761005,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.03496,
+                    40.48210000000017,
+                    2109761005.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00019000",
+                "park": "Brookline Monument",
+                "artist_name": "n/a",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1180064898,
+                "image": "",
+                "title": "Cannon (Brookline)"
+            },
+            "id": 1180064898,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.01714,
+                    40.39176000000015,
+                    1180064898.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00020000",
+                "park": "Phillips Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1798948019,
+                "image": "",
+                "title": "World War I Honor Roll (Carrick)"
+            },
+            "id": 1798948019,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99027,
+                    40.391300000000115,
+                    1798948019.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00021000",
+                "park": "",
+                "artist_name": "Frank Vittor",
+                "art_type": "War Memorials",
+                "id": 1298981276,
+                "image": "",
+                "title": "Boulevard of the Allies Memorial Columns"
+            },
+            "id": 1298981276,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99819999999988,
+                    40.43700000000018,
+                    1298981276.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00022000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1390195623,
+                "image": "",
+                "title": "Memorial Honor Roll (Employees of the City of Pittsburgh)"
+            },
+            "id": 1390195623,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99727906700684,
+                    40.43856463364665,
+                    1390195623.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00023000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 855858792,
+                "image": "",
+                "title": "First Ward Veterans Memorial"
+            },
+            "id": 855858792,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99457,
+                    40.43816,
+                    855858792.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00024000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 986964897,
+                "image": "",
+                "title": "U.S. Civil War Centennial Plaque & Polish Veterans Honor Roll"
+            },
+            "id": 986964897,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99750035688038,
+                    40.4382219912618,
+                    986964897.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00025000",
+                "park": "East Carnegie Park",
+                "artist_name": "Unknown",
+                "art_type": "War Memorials",
+                "id": 1935747520,
+                "image": "",
+                "title": "World War I Honor Roll (East Carnegie)"
+            },
+            "id": 1935747520,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.07481,
+                    40.4149,
+                    1935747520.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00026000",
+                "park": "",
+                "artist_name": "Allen George Newman",
+                "art_type": "War Memorials",
+                "id": 610837443,
+                "image": "",
+                "title": "World War II Memorial (13th Ward)"
+            },
+            "id": 610837443,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.8801299999999,
+                    40.45509,
+                    610837443.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00027000",
+                "park": "West End Park",
+                "artist_name": "Frank Vittor",
+                "art_type": "War Memorials",
+                "id": 968710562,
+                "image": "",
+                "title": "World War I Memorial (West End Park)"
+            },
+            "id": 968710562,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.03759999999988,
+                    40.43703000000016,
+                    968710562.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00028000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 400000318,
+                "image": "",
+                "title": "World War I & II Memorial Honor Roll (15th Ward)"
+            },
+            "id": 400000318,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.93759,
+                    40.42664,
+                    400000318.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00029000",
+                "park": "Highland Park",
+                "artist_name": "n/a",
+                "art_type": "Individual and Historic Monuments",
+                "id": 550256626,
+                "image": "",
+                "title": "Negley Memorial"
+            },
+            "id": 550256626,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.91742320964677,
+                    40.482135659695565,
+                    550256626.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00030000",
+                "park": "Highland Park",
+                "artist_name": "n/a",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1822604688,
+                "image": "",
+                "title": "Daughters of the American Revolution Memorial"
+            },
+            "id": 1822604688,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.91527999999988,
+                    40.47965000000016,
+                    1822604688.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00031000",
+                "park": "Leslie Park",
+                "artist_name": "Frank Vittor",
+                "art_type": "War Memorials",
+                "id": 1290474537,
+                "image": "",
+                "title": "World War I Memorial (Ninth Ward)"
+            },
+            "id": 1290474537,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.95851,
+                    40.47282,
+                    1290474537.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00032000",
+                "park": "Arsenal Park",
+                "artist_name": "n/a",
+                "art_type": "Individual and Historic Monuments",
+                "id": 585232683,
+                "image": "",
+                "title": "Abram R. Woolley Tablet"
+            },
+            "id": 585232683,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.96040925116992,
+                    40.466669471335116,
+                    585232683.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00033000",
+                "park": "Arsenal Park",
+                "artist_name": "n/a",
+                "art_type": "Individual and Historic Monuments",
+                "id": 711870693,
+                "image": "",
+                "title": "Allegheny Arsenal Memorial Tablet"
+            },
+            "id": 711870693,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.96042558501816,
+                    40.46683784807455,
+                    711870693.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00034000",
+                "park": "Arsenal Park",
+                "artist_name": "n/a",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1703055079,
+                "image": "",
+                "title": "Cannon (Lawrenceville)"
+            },
+            "id": 1703055079,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.961468221477,
+                    40.467751432335525,
+                    1703055079.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00035000",
+                "park": "Arsenal Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1941077363,
+                "image": "",
+                "title": "Soldiers & Sailors Memorial Fountain"
+            },
+            "id": 1941077363,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.96039468437505,
+                    40.466763164773624,
+                    1941077363.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00036000",
+                "park": "",
+                "artist_name": "Allen George Newman",
+                "art_type": "War Memorials",
+                "id": 908446330,
+                "image": "",
+                "title": "Doughboy"
+            },
+            "id": 908446330,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.96685575455274,
+                    40.463058490894525,
+                    908446330.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00038000",
+                "park": "Emerald View Park - Grandview Overlook",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1837310296,
+                "image": "",
+                "title": "All Wars Memorial with Flagpole"
+            },
+            "id": 1837310296,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.008,
+                    40.43236000000013,
+                    1837310296.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00039000",
+                "park": "Schenley Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 841046766,
+                "image": "",
+                "title": "Fourth Ward Memorial"
+            },
+            "id": 841046766,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.95257,
+                    40.44181,
+                    841046766.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00041000",
+                "park": "Schenley Park",
+                "artist_name": "Allen George Newman",
+                "art_type": "War Memorials",
+                "id": 1356459606,
+                "image": "",
+                "title": "The Hiker"
+            },
+            "id": 1356459606,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.95048,
+                    40.44183000000015,
+                    1356459606.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00042000",
+                "park": "Schenley Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1930798575,
+                "image": "",
+                "title": "Tree Memorial (Mothers)"
+            },
+            "id": 1930798575,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.95038,
+                    40.44185,
+                    1930798575.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00043000",
+                "park": "Schenley Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 734854316,
+                "image": "",
+                "title": "Tree Memorial (Wives)"
+            },
+            "id": 734854316,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9505,
+                    40.4419,
+                    734854316.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00044000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1888758129,
+                "image": "",
+                "title": "World War Monument (Overbrook)"
+            },
+            "id": 1888758129,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99524999999988,
+                    40.38466000000011,
+                    1888758129.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00045000",
+                "park": "Polish Hill Monument",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 2084984076,
+                "image": "",
+                "title": "Polish Hill War Monument"
+            },
+            "id": 2084984076,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.96730999999988,
+                    40.456730000000164,
+                    2084984076.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00046000",
+                "park": "Frick Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 2019023380,
+                "image": "",
+                "title": "Memorial Honor Roll (Regent Square)"
+            },
+            "id": 2019023380,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.89712999999989,
+                    40.43565,
+                    2019023380.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00047000",
+                "park": "Sheraden Monument",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 717794260,
+                "image": "",
+                "title": "All Wars Memorial (Sheraden)"
+            },
+            "id": 717794260,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.05427169080593,
+                    40.45349959829804,
+                    717794260.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00048000",
+                "park": "Armstrong Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1408393448,
+                "image": "",
+                "title": "War Memorial (17th Ward)"
+            },
+            "id": 1408393448,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.98619,
+                    40.42774000000014,
+                    1408393448.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00049000",
+                "park": "Ormsby Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 2131931109,
+                "image": "",
+                "title": "World War I Honor Roll (16th Ward)"
+            },
+            "id": 2131931109,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.97409,
+                    40.428500000000156,
+                    2131931109.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00050000",
+                "park": "",
+                "artist_name": "Stanley Roush",
+                "art_type": "War Memorials",
+                "id": 507830288,
+                "image": "",
+                "title": "World War I Memorial (17th Ward)"
+            },
+            "id": 507830288,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.98869,
+                    40.4286,
+                    507830288.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00051000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1719023957,
+                "image": "",
+                "title": "Pius Street All Wars Memorial"
+            },
+            "id": 1719023957,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.98099,
+                    40.42454,
+                    1719023957.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00052000",
+                "park": "Catalano Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 37901056,
+                "image": "",
+                "title": "World War I & II Memorial Honor Roll"
+            },
+            "id": 37901056,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99170705522397,
+                    40.46019306023502,
+                    37901056.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00053000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1443643047,
+                "image": "",
+                "title": "World War I Honor Roll (Spring Hill)"
+            },
+            "id": 1443643047,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99127,
+                    40.46542000000011,
+                    1443643047.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00054000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1313124103,
+                "image": "",
+                "title": "Veterans Honor Roll"
+            },
+            "id": 1313124103,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99778,
+                    40.4666,
+                    1313124103.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00055000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1557991689,
+                "image": "",
+                "title": "World War II Honor Roll (Spring Hill-City View)"
+            },
+            "id": 1557991689,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99121536441658,
+                    40.46289265113491,
+                    1557991689.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00056000",
+                "park": "Schenley Park",
+                "artist_name": "Giuseppe Moretti",
+                "art_type": "War Memorials",
+                "id": 1829743129,
+                "image": "",
+                "title": "Hygeia"
+            },
+            "id": 1829743129,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94666775520656,
+                    40.43864159704569,
+                    1829743129.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00057000",
+                "park": "Schenley Park",
+                "artist_name": "William Couper",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1270916740,
+                "image": "",
+                "title": "Colonel Alexander Leroy Hawkins"
+            },
+            "id": 1270916740,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94625,
+                    40.4358,
+                    1270916740.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00059000",
+                "park": "Schenley Park",
+                "artist_name": "Unknown",
+                "art_type": "Individual and Historic Monuments",
+                "id": 187106589,
+                "image": "",
+                "title": "Catahecassa"
+            },
+            "id": 187106589,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.93566,
+                    40.43545000000017,
+                    187106589.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00060000",
+                "park": "Schenley Park",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 717533477,
+                "image": "",
+                "title": "World War I Memorial Grove (Allegheny County)"
+            },
+            "id": 717533477,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94274,
+                    40.43948,
+                    717533477.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00061000",
+                "park": "Schenley Park",
+                "artist_name": "Harvey Schwab",
+                "art_type": "Individual and Historic Monuments",
+                "id": 1702440322,
+                "image": "",
+                "title": "Flag Monument"
+            },
+            "id": 1702440322,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94669480900293,
+                    40.4397146109311,
+                    1702440322.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00062000",
+                "park": "Vietnam Island",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 870625352,
+                "image": "",
+                "title": "Veterans Monument - World War I, World War II, Korea, Vietnam"
+            },
+            "id": 870625352,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.91282999999987,
+                    40.43793,
+                    870625352.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00063000",
+                "park": "Schenley Park",
+                "artist_name": "n/a",
+                "art_type": "Individual and Historic Monuments",
+                "id": 388313150,
+                "image": "",
+                "title": "Grand Army of the Republic Memorial: Robert Rownd"
+            },
+            "id": 388313150,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.94453776269052,
+                    40.44005501018154,
+                    388313150.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00064000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 561964783,
+                "image": "",
+                "title": "Honor Roll (Second Ward)"
+            },
+            "id": 561964783,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.98187755092471,
+                    40.45164898490569,
+                    561964783.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00065000",
+                "park": "Swisshelm War Memorial",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 2062585899,
+                "image": "",
+                "title": "World War I Honor Roll (14th Ward)"
+            },
+            "id": 2062585899,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.8998299999999,
+                    40.42075000000017,
+                    2062585899.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00066000",
+                "park": "",
+                "artist_name": "Unknown",
+                "art_type": "War Memorials",
+                "id": 1857419941,
+                "image": "",
+                "title": "World War I Memorial (24th Ward)"
+            },
+            "id": 1857419941,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.98215,
+                    40.46445000000017,
+                    1857419941.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00067000",
+                "park": "Robert E. Williams Park",
+                "artist_name": "Frank Vittor",
+                "art_type": "War Memorials",
+                "id": 253609478,
+                "image": "",
+                "title": "World War I Memorial (Fifth Ward)"
+            },
+            "id": 253609478,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9603650186631,
+                    40.45468637539412,
+                    253609478.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00068000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "War Memorials",
+                "id": 1597478051,
+                "image": "",
+                "title": "War Memorial (West End)"
+            },
+            "id": 1597478051,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.03421486871565,
+                    40.44017961407445,
+                    1597478051.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00074000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "Non-City Owned",
+                "id": 1383170303,
+                "image": "",
+                "title": "All Wars Memorial Honoring those of the 28th Ward"
+            },
+            "id": 1383170303,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.0525894112817,
+                    40.44284969211185,
+                    1383170303.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00075000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "Non-City Owned",
+                "id": 1002836340,
+                "image": "",
+                "title": "Duquesne Incline Monument"
+            },
+            "id": 1002836340,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.0188396122673,
+                    40.4382498370685,
+                    1002836340.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00076000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "Non-City Owned",
+                "id": 922842143,
+                "image": "",
+                "title": "Veterans Honor Roll"
+            },
+            "id": 922842143,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.0185003011278,
+                    40.436298203151466,
+                    922842143.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00078000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "Non-City Owned",
+                "id": 1964815341,
+                "image": "",
+                "title": "Esplen Honor Roll"
+            },
+            "id": 1964815341,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.0534670516792,
+                    40.464530970933595,
+                    1964815341.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00079000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "Non-City Owned",
+                "id": 1611062299,
+                "image": "",
+                "title": "Garfield All Wars Honor Roll"
+            },
+            "id": 1611062299,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.93736866934597,
+                    40.46476988411064,
+                    1611062299.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00087000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "Non-City Owned",
+                "id": 432065645,
+                "image": "",
+                "title": "30th Ward War Service Honor Roll"
+            },
+            "id": 432065645,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.99049168253185,
+                    40.410363796778086,
+                    432065645.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00088000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "Non-City Owned",
+                "id": 1018208371,
+                "image": "",
+                "title": "21st Ward Plaque"
+            },
+            "id": 1018208371,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.02871463980898,
+                    40.45546600425138,
+                    1018208371.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00096000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "Non-City Owned",
+                "id": 142195952,
+                "image": "",
+                "title": "Charles P. Samaha Plaque"
+            },
+            "id": 142195952,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.98736844960456,
+                    40.42889384936109,
+                    142195952.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00099000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "Non-City Owned",
+                "id": 1089921133,
+                "image": "",
+                "title": "17th Ward Veterans Memorial"
+            },
+            "id": 1089921133,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.98044321798386,
+                    40.42863455760505,
+                    1089921133.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00101000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "Non-City Owned",
+                "id": 191395610,
+                "image": "",
+                "title": "Saint Josephat Honor Roll"
+            },
+            "id": 191395610,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.9734858671722,
+                    40.42312945921259,
+                    191395610.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00102000",
+                "park": "",
+                "artist_name": "n/a",
+                "art_type": "Non-City Owned",
+                "id": 628976107,
+                "image": "",
+                "title": "World War II Momument"
+            },
+            "id": 628976107,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -79.98667,
+                    40.471780000000194,
+                    628976107.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00105000",
+                "park": "Northshore Riverfront Park",
+                "artist_name": "R. Allan Christianson (Architect)",
+                "art_type": "War Memorials",
+                "id": 1309894649,
+                "image": "",
+                "title": "Korean War Veterans Memorial"
+            },
+            "id": 1309894649,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.00808168812944,
+                    40.445725676267045,
+                    1309894649.0
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "properties": {
+                "name": "WM00107000",
+                "park": "Northshore Riverfront Park",
+                "artist_name": "George Danhires",
+                "art_type": "War Memorials",
+                "id": 1903851764,
+                "image": "",
+                "title": "Vietnam Veterans Memorial"
+            },
+            "id": 1903851764,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -80.01083093925672,
+                    40.445207107064164,
+                    1903851764.0
+                ],
+                "type": "Point"
+            }
+        }
+    ],
+    "name": "meuse",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "type": "FeatureCollection"
+}
